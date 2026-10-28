@@ -112,7 +112,7 @@ return 0;
 }
 ~~~
 ## OUTPUT
-<img width="462" height="361" alt="image" src="https://github.com/user-attachments/assets/14c0d967-0096-40a4-b30d-4a53c8294f01" />
+<img width="536" height="358" alt="IMG-20261028-WA0022" src="https://github.com/user-attachments/assets/a348aa63-a56c-4cc9-bbdd-057af9329395" />
 
 ## RESULT
 Thus the implementation of Hill cipher had been executed successfully.
